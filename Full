@@ -11,3 +11,75 @@ MODELAGEM DE DADOS UML
 
 
 Seção 1:Introdução - 1.Visão geral do Curso
+
+Prof: Dr. Nelio Alves
+Mestrado e doutorado em Engenharia de Software
+
+http://lattes.cnpq.br/4981055501404790
+
+ Neste capítulo será apenas uma introdução ao processo de desenvolvimento de software, onde
+a modelagem conceitual entra neste processo, e vamos entender sobre modelagem conceitual e 
+modelagem de domínio.
+
+ MODELAGEM CONCEITUAL:
+ MODELAGEM DE DOMÍNIO:
+ 
+  * A Modelagem conceitual é uma modelagem de domínio, porém, em nível de análise.
+ 
+ Será feito um paralelo entre as modelagens ESTRUTURADA e ORIENTADA A OBJETOS para o 
+desenvolvimento de software.
+ 
+ 
+Capítulo 2: Identificação de conceitos e atributos:
+
+ Vamos discutir a atividade do analista de sistemas na identificação de conceitos e atributos
+de um negócio p/ a construção de um sistema.
+
+ Neste capítulo tbm será introduzido a UML como ferramenta p/ desenhar o diagrama de classes q
+vamos para representar os modelos conceituais.
+
+ 
+ -- BIBLIOGRAFIA:
+ 
+ Análise e Projeto de Sistemas de Informação Orientado a Objetos 
+  Prof. Wazlawick -- Professor Brasileiro
+  
+ UML Essencial 3º Edição
+  Martin Fowler 
+  Dá uma visão geral de várias ferramentas da UML 
+  
+ Padrões Arquitetura de Aplicações Corporativas
+  Martin Fowler 
+  Livro Avançado que disucte padrões de arquiterura de aplicações corporativas. Exemplo:
+  Desenvolvimento em camadas, mapeamento objeto relacional e assim por diante
+
+--------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------			
+2.Material de apoio do capítulo 
+
+Querido(a) estudante,
+
+Aqui você pode baixar o material de apoio usado nas aulas do capítulo, para que você possa aproveitar ao máximo as aulas sem precisar ficar anotando muito.
+
+Grande abraço e bons estudos! Nelio.
+--------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
