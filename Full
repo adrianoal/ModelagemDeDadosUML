@@ -136,12 +136,69 @@ Seção2:Identificação de Conceitos e Atributos
 
 4.Material de apoio do capítulo 
 
+Seja muito bem-vindo(a) ao capítulo Identificação de conceitos e atributos!
+
+Aqui você pode baixar o material de apoio usado nas aulas do capítulo, para que você possa aproveitar ao máximo as aulas sem precisar ficar anotando muito.
+
+Grande abraço e bons estudos! Nelio.
+
+--------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------			
+5.Modelo conceitual, conceitos e atributos 
+
+ Agenda:
+ -------
  
+ * Definição de modelo conceitual
+ * Conceitos
+ * Atributos
+ * Representação UML de conceitos e atributos 
+ 
+ MODELO CONCEITUAL:
+ ------------------
+ 
+ * Definição 1: É um modelo q descreve a estrutura das informações q o sistema vai gerenciar
+   (Wazlawick)
+   
+ * Definição 2: É o modelo de Domínio em nível de Análise:
+	* Pertence ao escopo do problema e não ao escopo da solução
+	* independente de paradigma
+	* independente de tecnologia 
+	
 
+ Para representar o Modelo Conceitual, vamos utilizar a ferramenta:
+	* Diagrama de Classe da UML 
+	
+ O MODELO CONCEITUAL DESCREVE:
+ -----------------------------
+ 
+ * Conceitos --> São as caixa(Entidades)
+ * Atributos
+ * Associações
+ 
+ 
+ CONCEITOS:
+ ----------
+ * Um conceito pode ser qualquer entidade que tenha um SIGNIFICADO para o sistema e que tenha 
+   uma necessidade de ARMAZENAMENTO DE DADOS.
+ * Um conceito deve ser uma UNIDADE COESA.(
+				Não se deve misturar informações de várias coisas distintas em um mesmo conceito)   
 
-
-
-
+ ATRIBUTOS:
+ ----------
+ * Informações alfanuméricas simples, como número, textos, datas. etc. contidas em cada conceito
+ 
+ * Notas(1FN):
+	* Não pode ser multivalorado
+	* RUIM: telefones(3736-3938,9988-3346,3210-3939)
+	
+ * Não pode ser composto
+	* RUIM: endereço(Rua floriano peixoto, n250, apto, Bairro Copacabana, CEP 38410-384)
+	* BOM: logradouro, numero, complemento, bairro cep,
+	
+ 
+--------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------			
 
 
 
