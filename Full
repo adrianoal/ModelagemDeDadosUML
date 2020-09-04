@@ -29,7 +29,12 @@ modelagem de domínio.
  Será feito um paralelo entre as modelagens ESTRUTURADA e ORIENTADA A OBJETOS para o 
 desenvolvimento de software.
  
- 
+    Modelo de Domínio é a área de negócio observada
+ * A Modelagem de Domínio é um modelo que descreve 	
+	As entidades do domínio
+	As inter-relações entre elas
+	
+	
 Capítulo 2: Identificação de conceitos e atributos:
 
  Vamos discutir a atividade do analista de sistemas na identificação de conceitos e atributos
@@ -59,27 +64,74 @@ vamos para representar os modelos conceituais.
 
 Querido(a) estudante,
 
-Aqui você pode baixar o material de apoio usado nas aulas do capítulo, para que você possa aproveitar ao máximo as aulas sem precisar ficar anotando muito.
+Aqui você pode baixar o material de apoio usado nas aulas do capítulo, para que você possa 
+aproveitar ao máximo as aulas sem precisar ficar anotando muito.
 
 Grande abraço e bons estudos! Nelio.
 --------------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------------			
+3.Entendendo Modelagem de Domínio e Modelagem Conceitual
+
+ 
+ O QUE É MODELO DE DOMÍNIO?
+ --------------------------
+ 
+ Domínio: É a área de negócio observada 
+ 
+ MODELLO DE DOMÍNIO: É um modelo que descreve:
+											As entidades do domínio
+											As inter-relações entre elas
+											
+ Exemplo prático de um modelo de domínio:
+
+ Pedido
+	ItemPedido
+ Produto
+
+
+ 4 NÍVEIS DE ABSTRAÇÃO DO MODELO DE DOMÍNIO:
+ -------------------------------------------
+ 
+ NÍVEL						RESPONSÁVEL				OBJETIVO
+ 
+Conceitual ou de 			Analista de Negócio		Descrever as entidades do domínio(do negócio)
+análise (de negócio)								e suas inter-relações: 
+													INDEPENDENTEMENTE DE SISTEMA
 
 
 
+Conceitual ou de			Analista de Sistemas	Descreve as entidades do domínio(do sistema)
+Análise (de sistema)								e suas inter-relações:
+													INDEPENDENTE DE PARADIGMA E TECNOLOGIA
 
 
 
+Lógico ou de Design			Projetista				Descreve as entidades do domínio(do sistema)
+													Preso a um PARADIGMA(Ex. Relacional, OB)
+													INDEPENDENTEMENTE DE TECNOLOGIA
+
+
+Físico ou de 				Implementador			Descreve as entidades do domínio(do sistema)
+implementação				Codificador				e suas inter-relações:
+													Preso a um PARADIGMA(Ex. Relacional, OB)
+													Preso a uma TECNOLOGIA(Ex. Java, C#, PHP, Python, Ruby, NodeJS)
 
 
 
+ POLÊMICA SOBRE ANÁLISE & DESIGN:
+ --------------------------------
+ 
+ * Análise: Descreve o PROBLEMA(independente de paradigma e tecnologia)
+ * Design: Descreve a SOLUÇÃO(Preso ao paradigma)
+ 
+ 
+ CONCLUSÃO DA(POLÊMICA)
+ ----------------------
 
-
-
-
-
-
-
+ * Análise e Design tendem a ser mais próximas no desenvolvimento orientado a objetos
+ 
+--------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------			
 
 
 
